@@ -19,7 +19,7 @@ body {
   font-size: 36px;
 }
 .fundo {
-  background-image: url("/img/Captura\ de\ tela\ 2025-08-05\ 160844.png");
+  background-image: url("../img/Captura\ de\ tela\ 2025-08-05\ 160844.png");
   background-color: white;
   background-size: cover;
   background-position: center;
