@@ -1,0 +1,135 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Great Vibes', cursive;
+} 
+body {
+  background-color: pink;
+  background-size: cover;
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.cardapio {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Great Vibes', cursive;
+  font-size: 36px;
+}
+.fundo {
+  background-image: url("/img/Captura\ de\ tela\ 2025-08-05\ 160844.png");
+  background-color: white;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  border-radius: 15px;
+  overflow: hidden;
+  width: 90%;
+  max-width: 600px;
+  margin: 50px auto;
+  padding: 30px;
+  box-shadow: 0 15px 25px rgba(0, 0, 0, 0.2);
+  min-height: 575px;
+}
+.parte1 {
+  display: flex;
+  gap: 115px;
+}
+.bb h4 {
+  margin-left: 23%;
+  margin-bottom: 40px;
+}
+.bb h3 {
+  margin-left: 20px;
+  margin-top: 10px;
+}
+.bb img {
+  width: 150px;
+  border-radius: 10%;
+  margin-top: 10px;
+  margin-left: 15px;
+}
+.bb {
+  background-color: azure;
+  background-size: 20%;
+  border-radius: 20px;
+  max-width: 180px;
+  border: 2px solid rgba(0, 0, 0, 0.272);
+  margin-top: 50px;
+  margin-left: 20px;
+}
+.t {
+  background-color: azure;
+  background-size: 20%;
+  border-radius: 20px;
+  max-width: 180px;
+  border: 2px solid rgba(0, 0, 0, 0.272);
+  margin-top: 50px;
+  margin-left: 20px;
+}
+.t img {
+  width: 150px;
+  border-radius: 10%;
+  margin-top: 10px;
+  margin-left: 15px;
+}
+.t h3 {
+  margin-left: 20px;
+  margin-top: 10px;
+}
+.t h4 {
+  margin-left: 23%;
+  margin-bottom: 40px;
+}
+.tg {
+  background-color: azure;
+  background-size: 20%;
+  border-radius: 20px;
+  max-width: 180px;
+  border: 2px solid rgba(0, 0, 0, 0.272);
+  margin-top: 50px;
+  margin-left: 20px;
+}
+.tg img {
+  width: 150px;
+  border-radius: 10%;
+  margin-top: 10px;
+  margin-left: 15px;
+}
+.tg h3 {
+  margin-left: 20px;
+  margin-top: 10px;
+}
+.tg h4 {
+  margin-left: 23%;
+  margin-bottom: 40px;
+}
+.cl {
+  background-color: azure;
+  background-size: 20%;
+  border-radius: 20px;
+  max-width: 180px;
+  border: 2px solid rgba(0, 0, 0, 0.272);
+  margin-top: 50px;
+  margin-left: 20px;
+}
+.cl img {
+  width: 150px;
+  border-radius: 10%;
+  margin-top: 10px;
+  margin-left: 15px;
+}
+.cl h3 {
+  margin-left: 20px;
+  margin-top: 10px;
+}
+.cl h4 {
+  margin-left: 23%;
+  margin-bottom: 40px;
+}
+.parte2 {
+  display: flex;
+  gap: 115px;
+}
