@@ -1,0 +1,7 @@
+D:\projetos C#\jogo da forca\jogo da forca\obj\Debug\jogo da forca.csprojResolveAssemblyReference.cache
+D:\projetos C#\jogo da forca\jogo da forca\obj\Debug\jogo_da_forca.MainForm.resources
+D:\projetos C#\jogo da forca\jogo da forca\obj\Debug\jogo da forca.csproj.GenerateResource.Cache
+D:\projetos C#\jogo da forca\jogo da forca\bin\Debug\jogo da forca.exe
+D:\projetos C#\jogo da forca\jogo da forca\bin\Debug\jogo da forca.pdb
+D:\projetos C#\jogo da forca\jogo da forca\obj\Debug\jogo da forca.exe
+D:\projetos C#\jogo da forca\jogo da forca\obj\Debug\jogo da forca.pdb
